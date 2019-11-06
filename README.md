@@ -6,8 +6,11 @@
 Canny edge detector is one of the most widely used edge detectors in Computer Vision. This project implemented the edge detection for video by using canny edge detector.
 
 The program will convert the video frames to grayscale firstly. Then do a Canny Edge Detection for each frame. Play the original and processed frames in the GUI interface side by side. Finally, put processed frames together to a stream and save the stream as a video to the chosen folder.
-| ![enter image description here](https://lh3.googleusercontent.com/kwfFtEYvq2IalLd_YowGiHUXkMk17v-DpIBDO1aMYhnuA8ABw9HzwOJZKjiuliJ45cLbCGDXGj_A "originalFrame") | ![enter image description here](https://lh3.googleusercontent.com/3SQSuwhf8uK-47dhuNOy23FV9CDrJKw1RRAoHBJdsQ0NNmo9b9QnKFSXZE71QVfrlNjXOI9Q9RBf "cannyFrame") |
-|--|--|
+
+<center class="half">
+    <img src="https://drive.google.com/file/d/1fB5SoR-16t_Uu7-M91js_biyQfpGy1pt/view?usp=sharing><img src="https://drive.google.com/file/d/131Jj9MCD_ShqxLg37j5pytjoGd0vDwQx/view?usp=sharing" width="200"/><img src="https://drive.google.com/file/d/131Jj9MCD_ShqxLg37j5pytjoGd0vDwQx/view?usp=sharing" width="200"/>
+</center>
+
 The left image is one of frames from original video. The right image is the related frame which being processed by canny edge detector.
 
 ## Getting Started
