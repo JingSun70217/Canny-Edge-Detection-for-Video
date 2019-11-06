@@ -9,7 +9,7 @@ The program will convert the video frames to grayscale firstly. Then do a Canny 
 
 
 <p align="center">
- <img src="https://lh3.googleusercontent.com/kwfFtEYvq2IalLd_YowGiHUXkMk17v-DpIBDO1aMYhnuA8ABw9HzwOJZKjiuliJ45cLbCGDXGj_A" width="300"/><img src="https://lh3.googleusercontent.com/3SQSuwhf8uK-47dhuNOy23FV9CDrJKw1RRAoHBJdsQ0NNmo9b9QnKFSXZE71QVfrlNjXOI9Q9RBf" width="300"/>
+ <img src="https://lh3.googleusercontent.com/kwfFtEYvq2IalLd_YowGiHUXkMk17v-DpIBDO1aMYhnuA8ABw9HzwOJZKjiuliJ45cLbCGDXGj_A" width="350"/><img src="https://lh3.googleusercontent.com/3SQSuwhf8uK-47dhuNOy23FV9CDrJKw1RRAoHBJdsQ0NNmo9b9QnKFSXZE71QVfrlNjXOI9Q9RBf" width="350"/>
 </p>
 
 The left image is one of frames from original video. The right image is the related frame which being processed by canny edge detector.
