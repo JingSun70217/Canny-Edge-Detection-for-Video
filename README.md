@@ -60,8 +60,3 @@ The running time of the canny edge detector depends on how many edges in each fr
 
 Please run the cannyEdgeDetection.py file if GUI interface does not work as expected. This file packages the canny edge detection algorithm into the "cannyDetector" function. The original and processed video can be played at the same time in two windows. Please change the path of the input video file. If you want to stop playing, please push 'q' to break otherwise the output video cannot be open.
 
-## Citation
-
-Tutorial of Canny Edge Detector:
-[http://www.aishack.in/tutorials/canny-edge-detector/](http://www.aishack.in/tutorials/canny-edge-detector/)
-
