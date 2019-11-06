@@ -7,6 +7,10 @@ Canny edge detector is one of the most widely used edge detectors in Computer Vi
 
 The program will convert the video frames to grayscale firstly. Then do a Canny Edge Detection for each frame. Play the original and processed frames in the GUI interface side by side. Finally, put processed frames together to a stream and save the stream as a video to the chosen folder.
 
+left             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]("https://lh3.googleusercontent.com/kwfFtEYvq2IalLd_YowGiHUXkMk17v-DpIBDO1aMYhnuA8ABw9HzwOJZKjiuliJ45cLbCGDXGj_A" width="200")  |  ![](https://lh3.googleusercontent.com/3SQSuwhf8uK-47dhuNOy23FV9CDrJKw1RRAoHBJdsQ0NNmo9b9QnKFSXZE71QVfrlNjXOI9Q9RBf" width="200")
+
 <center>
  <img src="https://lh3.googleusercontent.com/kwfFtEYvq2IalLd_YowGiHUXkMk17v-DpIBDO1aMYhnuA8ABw9HzwOJZKjiuliJ45cLbCGDXGj_A" width="200"/><img src="https://lh3.googleusercontent.com/3SQSuwhf8uK-47dhuNOy23FV9CDrJKw1RRAoHBJdsQ0NNmo9b9QnKFSXZE71QVfrlNjXOI9Q9RBf" width="200"/>
 </center>
