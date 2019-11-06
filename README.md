@@ -56,7 +56,7 @@ There are many different ways of implementing each step, especially for the "Non
 
 The running time of the canny edge detector depends on how many edges in each frame. For a frame with few edges, the processing speed is about 12s~14s per frame. For a frame with many edges, the running time of each frame can exceed 1min sometimes. The "Non-Maximum Suppression"  function takes most of the time. Please wait patiently for the display.
 
-### Alternative way to show 
+### Alternative way to display outputs 
 
 Please run the cannyEdgeDetection.py file if GUI interface does not work as expected. This file packages the canny edge detection algorithm into the "cannyDetector" function. The original and processed video can be played at the same time in two windows. Please change the path of the input video file. If you want to stop playing, please push 'q' to break otherwise the output video cannot be open.
 
